@@ -107481,11 +107481,12 @@
       "chainId": 101,
       "address": "6cWXLiJQSaMX1446s6yfU9cj44xA7cRVjAy8pzuya5dz",
       "symbol": "DODA",
-      "name": "SAAD token",
+      "name": "SAAD Coin",
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/alinet84/DODA/main/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/alinet84/DODA/532f47f4834c6f627efcc6e93fabedae2dcbb156/logo.png",
       "tags": [
-        "social-token"
+        "social-token",
+        "community-token"
       ]
     }
   ],
